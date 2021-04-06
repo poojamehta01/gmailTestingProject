@@ -1,0 +1,633 @@
+11:05:41.570 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+11:05:41.938 [main] INFO  com.automation.utils.LogUtils - Entered userName
+11:05:42.122 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:05:43.534 [main] INFO  com.automation.utils.LogUtils - Entered password
+11:05:43.642 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:05:52.457 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+11:05:52.772 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+11:05:53.438 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+11:05:53.804 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+11:05:54.157 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+11:05:54.643 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+11:05:54.797 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+11:05:55.012 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+11:05:58.995 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+11:05:59.168 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+11:05:59.399 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+11:05:59.936 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+11:06:50.470 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+11:06:50.741 [main] INFO  com.automation.utils.LogUtils - Entered userName
+11:06:50.875 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:06:52.388 [main] INFO  com.automation.utils.LogUtils - Entered password
+11:06:52.523 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:07:00.208 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+11:07:00.557 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+11:07:00.843 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+11:07:01.640 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+11:07:01.985 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+11:07:02.436 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+11:07:02.587 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+11:07:02.715 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+11:07:07.745 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+11:07:07.917 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+11:07:08.140 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+11:07:08.594 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+11:13:10.233 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+11:13:10.607 [main] INFO  com.automation.utils.LogUtils - Entered userName
+11:13:10.773 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:13:12.565 [main] INFO  com.automation.utils.LogUtils - Entered password
+11:13:12.721 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:13:19.264 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+11:13:19.870 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+11:13:20.870 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+11:13:21.363 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+11:13:21.998 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+11:13:22.518 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+11:13:22.668 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+11:13:22.804 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+11:13:27.047 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+11:13:27.296 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+11:13:27.689 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+11:13:28.377 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+11:15:00.285 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+11:15:00.679 [main] INFO  com.automation.utils.LogUtils - Entered userName
+11:15:00.845 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:15:02.702 [main] INFO  com.automation.utils.LogUtils - Entered password
+11:15:02.798 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:15:10.273 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+11:15:10.467 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+11:15:11.086 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+11:15:11.821 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+11:15:12.209 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+11:15:12.637 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+11:15:12.815 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+11:15:13.009 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+11:15:15.954 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+11:15:16.199 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+11:15:16.399 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+11:15:16.950 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+11:15:29.198 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+11:15:29.597 [main] INFO  com.automation.utils.LogUtils - Entered userName
+11:15:29.770 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:15:31.514 [main] INFO  com.automation.utils.LogUtils - Entered password
+11:15:31.651 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:15:38.143 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+11:15:39.192 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+11:15:41.402 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+11:15:41.809 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+11:15:42.448 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+11:15:42.984 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+11:15:43.279 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+11:15:43.496 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+11:15:47.262 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+11:15:47.426 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+11:15:47.705 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+11:15:48.237 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+11:49:59.821 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+11:50:00.211 [main] INFO  com.automation.utils.LogUtils - Entered userName
+11:50:00.391 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:50:02.623 [main] INFO  com.automation.utils.LogUtils - Entered password
+11:50:02.960 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+11:50:11.627 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+11:50:13.879 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+11:50:18.706 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+11:50:19.949 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+11:50:21.279 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+11:50:22.531 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+11:50:22.869 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+11:50:23.090 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+11:50:29.047 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+11:50:29.597 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+11:50:29.981 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+11:50:31.019 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+12:11:37.652 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:11:44.796 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:11:44.804 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:11:45.198 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:11:45.198 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:11:45.198 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:11:45.385 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:11:45.385 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:11:45.386 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:11:47.199 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:11:47.199 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:11:47.199 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:11:47.586 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:11:47.586 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:11:47.595 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:11:57.108 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:11:57.109 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:11:58.183 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:11:58.184 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:11:58.189 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:11:59.030 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:12:00.779 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:12:00.780 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:12:00.781 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:12:01.886 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:12:01.886 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:12:01.887 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:12:03.090 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:12:03.090 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:12:03.091 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:12:05.383 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:12:05.384 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:12:06.309 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:12:06.309 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:12:06.311 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:12:06.934 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:12:06.934 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:12:06.936 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:12:14.094 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:12:14.103 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:12:15.019 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:12:15.019 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:12:15.928 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:12:17.556 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+12:12:17.557 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+12:21:28.047 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:21:36.414 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:21:36.435 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:37.032 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:21:37.032 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:21:37.033 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:37.463 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:21:37.464 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:21:37.464 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:39.815 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:21:39.815 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:21:39.816 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:40.000 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:21:40.001 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:21:40.004 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:50.045 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:21:50.045 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:51.264 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:21:51.265 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:21:51.270 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:51.911 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:53.694 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:21:53.695 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:21:53.695 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:54.881 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:21:54.881 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:21:54.881 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:55.962 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:21:55.963 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:21:55.963 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:57.257 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:21:57.257 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:21:58.011 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:21:58.012 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:21:58.013 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:21:58.360 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:21:58.361 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:21:58.362 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:22:03.582 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:22:03.604 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:22:04.697 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:22:04.698 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:22:05.556 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:22:06.257 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+12:23:36.655 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:23:42.377 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:23:42.387 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:23:42.789 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:23:42.789 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:23:42.790 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:23:42.997 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:23:42.998 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:23:42.998 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:23:45.113 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:23:45.113 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:23:45.113 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:23:45.283 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:23:45.284 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:23:45.287 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:23:53.351 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:23:53.354 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:23:54.967 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:23:54.968 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:23:54.972 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:23:59.675 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:24:00.840 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:24:00.841 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:24:00.841 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:24:02.398 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:24:02.398 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:24:02.399 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:24:03.095 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:24:03.096 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:24:03.096 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:24:04.900 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:24:04.901 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:24:05.434 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:24:05.434 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:24:05.436 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:24:05.796 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:24:05.796 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:24:05.798 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:24:12.357 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:24:12.383 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:24:13.397 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:24:13.398 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:24:13.692 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:24:14.906 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+12:26:22.396 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:26:30.952 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:26:30.958 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:31.368 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:26:31.368 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:26:31.368 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:31.551 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:26:31.551 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:26:31.552 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:40.246 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:26:46.615 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:26:46.623 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:47.061 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:26:47.061 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:26:47.061 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:47.289 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:26:47.290 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:26:47.290 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:49.068 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:26:49.068 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:26:49.069 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:49.236 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:26:49.236 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:26:49.238 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:26:59.500 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:26:59.503 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:02.318 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:27:02.318 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:27:02.321 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:02.664 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:03.856 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:27:03.856 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:27:03.857 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:05.967 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:27:05.967 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:27:05.968 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:07.634 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:27:07.635 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:27:07.635 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:09.559 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:27:09.561 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:27:10.416 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:27:10.416 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:27:10.417 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:11.348 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:27:11.349 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:27:11.350 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:16.259 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:27:16.280 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:27:17.049 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:27:17.050 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:27:17.617 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:27:54.836 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:28:00.780 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:28:00.787 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:01.119 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:28:01.119 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:28:01.120 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:01.321 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:28:01.322 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:28:01.322 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:03.191 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:28:03.191 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:28:03.191 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:03.384 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:28:03.384 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:28:03.388 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:15.250 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:28:15.252 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:16.909 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:28:16.910 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:28:16.915 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:18.117 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:19.382 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:28:19.383 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:28:19.383 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:21.413 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:28:21.413 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:28:21.414 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:22.726 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:28:22.726 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:28:22.726 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:24.143 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:28:24.144 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:28:24.449 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:28:24.449 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:28:24.450 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:24.731 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:28:24.731 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:28:24.732 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:30.150 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:28:30.164 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:28:30.505 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:28:30.506 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:28:30.916 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:28:31.891 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+12:33:22.501 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:33:31.194 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:33:31.202 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:31.982 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:33:31.983 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:33:31.984 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:32.472 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:33:32.474 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:33:32.475 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:34.362 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:33:34.364 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:33:34.366 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:34.648 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:33:34.648 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:33:34.650 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:52.337 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:33:52.340 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:54.636 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:33:54.637 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:33:54.639 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:55.523 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:56.231 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:33:56.232 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:33:56.233 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:56.855 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:33:56.855 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:33:56.855 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:58.433 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:33:58.433 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:33:58.433 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:58.923 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:33:58.923 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:33:59.099 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:33:59.099 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:33:59.102 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:33:59.286 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:33:59.287 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:33:59.289 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:34:03.137 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:34:03.144 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:34:03.265 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:34:03.265 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:34:03.414 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:34:03.902 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+12:35:19.508 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:35:20.046 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:35:25.213 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:35:25.219 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:25.614 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:25.614 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:35:25.614 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:25.847 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:25.847 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:35:25.847 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:25.866 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:35:25.875 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:26.229 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:26.229 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:35:26.229 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:26.345 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:26.345 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:35:26.345 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:28.351 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:28.351 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:35:28.351 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:28.360 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:28.360 [main] INFO  com.automation.utils.LogUtils - Entered password
+12:35:28.360 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:28.501 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:28.501 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:35:28.503 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:28.513 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:28.514 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:35:28.516 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:36.517 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:35:36.517 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:36.740 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+12:35:36.741 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:36.753 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:36.753 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:35:36.755 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:37.259 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:38.473 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:38.473 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+12:35:38.475 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:38.739 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:38.740 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:35:38.740 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:38.802 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:39.335 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:39.336 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:35:39.336 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:39.563 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:39.564 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+12:35:39.564 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:40.077 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:40.077 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:35:40.077 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:40.097 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:40.098 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+12:35:40.098 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:41.444 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:41.444 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+12:35:41.444 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:41.875 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:41.875 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:35:41.877 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:35:41.877 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+12:35:42.055 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:35:42.056 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:35:42.057 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:42.149 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+12:35:42.150 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+12:35:42.150 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:42.211 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:42.211 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:35:42.212 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:42.325 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:42.325 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+12:35:42.326 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:45.078 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:35:45.082 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:45.204 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:45.204 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:35:45.458 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:35:45.945 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+12:35:45.945 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+12:35:47.269 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+12:35:47.274 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:35:47.403 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:35:47.404 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+12:35:47.612 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+12:35:48.125 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+12:35:48.125 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+12:47:49.581 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+12:47:53.704 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+12:47:53.783 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:47:53.983 [main] DEBUG com.automation.utils.LogUtils - Entering value
+12:47:53.983 [main] INFO  com.automation.utils.LogUtils - Entered userName
+12:47:54.036 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+12:47:54.130 [main] DEBUG com.automation.utils.LogUtils - Performing click
+12:47:54.130 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+12:47:54.192 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+13:10:46.082 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+13:10:52.811 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+13:10:53.008 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:10:53.631 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:10:53.632 [main] INFO  com.automation.utils.LogUtils - Entered userName
+13:10:53.877 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:10:54.218 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:10:54.219 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:10:54.438 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+13:17:53.659 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+13:17:59.916 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+13:17:59.926 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:18:00.270 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:18:00.270 [main] INFO  com.automation.utils.LogUtils - Entered userName
+13:18:00.270 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:18:00.452 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:18:00.452 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:18:00.453 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:18:02.261 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:18:02.261 [main] INFO  com.automation.utils.LogUtils - Entered password
+13:18:02.261 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:18:02.472 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:18:02.473 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:18:02.543 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+13:21:57.937 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+13:22:04.870 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+13:22:04.886 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:05.516 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:22:05.517 [main] INFO  com.automation.utils.LogUtils - Entered userName
+13:22:05.517 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:06.031 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:22:06.032 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:22:06.033 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:08.179 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:22:08.181 [main] INFO  com.automation.utils.LogUtils - Entered password
+13:22:08.181 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:08.330 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:22:08.330 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:22:08.333 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:17.312 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+13:22:17.314 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:18.462 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:22:18.462 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+13:22:18.467 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:19.878 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:20.502 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:22:20.503 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+13:22:21.319 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:22.509 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:22:22.510 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+13:22:23.639 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:25.235 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:22:25.236 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+13:22:25.664 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:22:27.021 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:22:27.021 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+13:22:27.197 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+13:24:45.877 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+13:24:52.784 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+13:24:52.796 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:24:53.380 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:24:53.382 [main] INFO  com.automation.utils.LogUtils - Entered userName
+13:24:53.382 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:24:53.903 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:24:53.903 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:24:53.904 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:24:56.367 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:24:56.368 [main] INFO  com.automation.utils.LogUtils - Entered password
+13:24:56.368 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:24:56.689 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:24:56.690 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:24:56.697 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:25:08.194 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+13:25:08.194 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:25:09.525 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:25:09.525 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+13:25:09.528 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:25:11.058 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:25:12.044 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:25:12.045 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+13:25:12.872 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:25:13.601 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:25:13.602 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+13:25:14.088 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:25:14.875 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:25:14.875 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+13:25:15.177 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:25:16.404 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:25:16.405 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+13:25:16.748 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+13:26:16.797 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+13:26:23.213 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+13:26:23.221 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:23.858 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:26:23.859 [main] INFO  com.automation.utils.LogUtils - Entered userName
+13:26:23.859 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:24.177 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:26:24.178 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:26:24.178 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:26.184 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:26:26.184 [main] INFO  com.automation.utils.LogUtils - Entered password
+13:26:26.184 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:26.483 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:26:26.483 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:26:26.487 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:36.260 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+13:26:36.261 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:37.712 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:26:37.713 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+13:26:37.720 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:40.152 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:40.509 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:26:40.510 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+13:26:41.171 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:42.020 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:26:42.020 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+13:26:42.178 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:43.037 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:26:43.038 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+13:26:43.336 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:44.326 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:26:44.326 [main] INFO  com.automation.utils.LogUtils - Message Details Entered
+13:26:44.562 [main] DEBUG com.automation.utils.LogUtils - Uploading Attachment
+13:26:44.562 [main] INFO  com.automation.utils.LogUtils - Attachment Uploaded
+13:26:44.730 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:44.941 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:26:44.941 [main] INFO  com.automation.utils.LogUtils - Mail Sent
+13:26:44.942 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:50.162 [main] INFO  com.automation.utils.LogUtils - message Sent visible
+13:26:50.174 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:26:50.652 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:26:50.653 [main] INFO  com.automation.utils.LogUtils - Open Sent Page
+13:26:50.998 [main] INFO  com.automation.utils.LogUtils - Mail Sent Clicked
+13:26:52.219 [main] INFO  com.automation.utils.LogUtils - Mail Sent Details Visible
+13:26:52.220 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+13:29:00.028 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+13:29:06.595 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+13:29:06.744 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:29:07.267 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:29:07.267 [main] INFO  com.automation.utils.LogUtils - Entered userName
+13:29:07.349 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:29:07.523 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:29:07.523 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:29:07.657 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier
+13:34:31.811 [main] DEBUG com.automation.utils.LogUtils - Initializing the webDrvier
+13:34:38.823 [main] INFO  com.automation.utils.LogUtils - Login Page Title found
+13:34:38.955 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:34:39.591 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:34:39.592 [main] INFO  com.automation.utils.LogUtils - Entered userName
+13:34:39.594 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:34:40.033 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:34:40.034 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:34:40.034 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:34:42.448 [main] DEBUG com.automation.utils.LogUtils - Entering value
+13:34:42.448 [main] INFO  com.automation.utils.LogUtils - Entered password
+13:34:42.449 [main] DEBUG com.automation.utils.LogUtils - Waiting for element to be visible
+13:34:42.778 [main] DEBUG com.automation.utils.LogUtils - Performing click
+13:34:42.778 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+13:34:42.891 [main] DEBUG com.automation.utils.LogUtils - Closing the webDrvier

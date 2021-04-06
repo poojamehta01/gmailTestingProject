@@ -1,0 +1,7 @@
+16:58:27.769 [main] INFO  com.automation.utils.LogUtils - Clicked NextButton
+16:58:36.091 [main] INFO  com.automation.utils.LogUtils - mailBox is visible
+16:58:36.340 [main] INFO  com.automation.utils.LogUtils - Clicks on Compose Button
+16:58:36.925 [main] INFO  com.automation.utils.LogUtils - Page Pop-outs
+16:58:37.384 [main] INFO  com.automation.utils.LogUtils - To Detail Entered
+16:58:37.707 [main] INFO  com.automation.utils.LogUtils - Subject Details Entered
+16:58:38.215 [main] INFO  com.automation.utils.LogUtils - Message Details Entered

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+extent.reporter.html.start=true
+extent.reporter.html.config=
+extent.reporter.html.out=test-output/HtmlReport/ExtentHtml.html
+</extentreports>
